@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+backend/DlVery/target/
+frontend/dlvery-frontend/dist/
+frontend/dlvery-frontend/dist-ssr/
+
+# IDE/editor folders
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Maven/Java
+backend/DlVery/.mvn/wrapper/maven-wrapper.jar
+backend/DlVery/.apt_generated
+backend/DlVery/.classpath
+backend/DlVery/.factorypath
+backend/DlVery/.project
+backend/DlVery/.settings
+backend/DlVery/.springBeans
+backend/DlVery/.sts4-cache
+backend/DlVery/*.iws
+backend/DlVery/*.iml
+backend/DlVery/*.ipr
+backend/DlVery/HELP.md
+
+# NetBeans
+backend/DlVery/nbproject/private/
+backend/DlVery/nbbuild/
+backend/DlVery/dist/
+backend/DlVery/nbdist/
+backend/DlVery/.nb-gradle/
+backend/DlVery/build/
+
+# OS generated files
+Thumbs.db
+Desktop.ini 
